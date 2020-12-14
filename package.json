@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/luxplanjay/webpack-starter-kit/issues"
   },
-  "homepage": "https://kateryna-vyshnevetska.github.io/JS-team-project/",
+  "homepage": "https://kharchenkok.github.io/js-teamproject-filmoteka/",
   "devDependencies": {
     "@babel/core": "^7.11.4",
     "@babel/plugin-proposal-class-properties": "^7.10.4",
